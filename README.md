@@ -52,3 +52,6 @@ If you encounter the error "Error: Video is not Loaded," check the path to the v
 
 Slow Processing:
 If the video is lagging, consider lowering the resolution or reducing the video length for faster processing.
+
+
+![1](https://github.com/user-attachments/assets/49605ca6-f799-4fca-ae8e-c17560bd291c)
